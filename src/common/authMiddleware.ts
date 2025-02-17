@@ -1,4 +1,3 @@
-// src/common/authMiddleware.ts
 import { Request, Response, NextFunction } from 'express';
 
 const ADMIN_AUTH = 'admin:qwerty';

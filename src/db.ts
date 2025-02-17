@@ -1,4 +1,3 @@
-// src/db.ts
 import {BlogDBType} from "./blogs/models";
 import {PostDBType} from "./posts/models";
 

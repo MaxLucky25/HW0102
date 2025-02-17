@@ -1,4 +1,3 @@
-// src/testing/router.ts
 import { Router } from 'express';
 import { db } from '../db';
 

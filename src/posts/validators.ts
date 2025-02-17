@@ -1,4 +1,3 @@
-// src/posts/validators.ts
 import { body } from 'express-validator';
 import { blogRepository } from '../blogs/blogRepository';
 

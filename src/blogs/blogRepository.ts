@@ -1,4 +1,4 @@
-// src/blogs/blogRepository.ts
+
 import { db } from '../db';
 import { BlogDBType, BlogInputModel, BlogViewModel } from './models';
 

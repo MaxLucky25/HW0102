@@ -1,4 +1,3 @@
-// src/posts/postRepository.ts
 import { db } from '../db';
 import { PostDBType, PostInputModel, PostViewModel } from './models';
 import { blogRepository } from '../blogs/blogRepository';

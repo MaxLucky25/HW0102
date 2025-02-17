@@ -1,4 +1,4 @@
-// src/blogs/routers.ts
+
 import { Router } from 'express';
 import { blogValidators } from './validators';
 import { authMiddleware } from '../common/authMiddleware';

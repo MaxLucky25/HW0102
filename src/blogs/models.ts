@@ -1,4 +1,4 @@
-// src/blogs/models.ts
+
 export type BlogDBType = {
     id: string;
     name: string;

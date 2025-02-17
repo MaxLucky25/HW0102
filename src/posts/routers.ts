@@ -1,4 +1,3 @@
-// src/posts/routers.ts
 import { Router } from 'express';
 import { postValidators } from './validators';
 import { authMiddleware } from '../common/authMiddleware';

@@ -1,4 +1,4 @@
-// src/posts/models.ts
+
 export type PostDBType = {
     id: string;
     title: string;
